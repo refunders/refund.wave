@@ -1,5 +1,5 @@
 # `refund.wave`
-![](https://travis-ci.org/refunders/refund.wave.svg?branch=master)
+![](https://travis-ci.org/refunders/refund.wave.svg?branch=devel)
 
 ## Wavelet-based regression for scalar responses and functional predictors.
 
